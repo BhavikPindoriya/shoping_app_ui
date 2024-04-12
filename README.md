@@ -27,6 +27,8 @@ This is a mobile app UI designed for an online shopping platform. It provides a 
     <img src="https://github.com/BhavikPindoriya/shoping_app_ui/assets/154498968/38d9b9ac-7373-4ebe-b0ad-552782a1cec6" alt="Screenshot 1" width="200">
     <img src="https://github.com/BhavikPindoriya/shoping_app_ui/assets/154498968/398f5a1c-e476-4e35-bdca-9bf1a34a2747" alt="Screenshot 2" width="200">
     <img src="https://github.com/BhavikPindoriya/shoping_app_ui/assets/154498968/799ec467-db3d-4ae0-b064-1d34097fdc6f" alt="Screenshot 3" width="200">
+    <img src="https://github.com/BhavikPindoriya/shoping_app_ui/assets/154498968/b55cb932-44d7-483d-98a9-4602673e7d5f" alt="Screenshot 3" width="200">
+    <img src="https://github.com/BhavikPindoriya/shoping_app_ui/assets/154498968/345f2130-707a-4361-a2f9-a507e2361604" alt="Screenshot 3" width="200">
     <img src="https://github.com/BhavikPindoriya/shoping_app_ui/assets/154498968/44b18db4-db5c-43c9-939e-58dbd063a10b" alt="Screenshot 4" width="200">
     <img src="https://github.com/BhavikPindoriya/shoping_app_ui/assets/154498968/214f26ea-3ae4-4df6-ae73-b1d77569d0f7" alt="Screenshot 5" width="200">
     <img src="https://github.com/BhavikPindoriya/shoping_app_ui/assets/154498968/ec0cd1f6-a31d-42f5-99ef-545e4179f235" alt="Screenshot 6" width="200">
@@ -37,6 +39,7 @@ This is a mobile app UI designed for an online shopping platform. It provides a 
     <img src="https://github.com/BhavikPindoriya/shoping_app_ui/assets/154498968/6678c2f8-9201-41e5-a041-5262ff6002f6" alt="Screenshot 11" width="200">
     <img src="https://github.com/BhavikPindoriya/shoping_app_ui/assets/154498968/04338143-f74a-42b4-8113-38a5831fe1c7" alt="Screenshot 12" width="200">
     <img src="https://github.com/BhavikPindoriya/shoping_app_ui/assets/154498968/6ffd35c7-9d64-45cc-b63b-984c42ed984e" alt="Screenshot 13" width="200">
+     <img src="https://github.com/BhavikPindoriya/shoping_app_ui/assets/154498968/44b18db4-db5c-43c9-939e-58dbd063a10b" alt="Screenshot 4" width="200">
 </div>
 
 ## Credits
